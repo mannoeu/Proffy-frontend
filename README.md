@@ -1,8 +1,5 @@
 # Proffy
 
-<img src="./src/assets/images/logo.svg" align="center"
-     alt="Size Limit logo by Anton Lovchikov" height="150">
-
 Proffy is an online study platform that connects students to teachers, developed during Next Level Week.
 
 <p align="center">
