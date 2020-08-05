@@ -1,4 +1,4 @@
-# Proffy
+# Proffy frontend
 
 Proffy is an online study platform that connects students to teachers, developed during Next Level Week.
 
