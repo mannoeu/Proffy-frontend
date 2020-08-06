@@ -47,7 +47,7 @@
   font-size: 1.6rem;
   display: block;
 }
-.teacher-item footer button {
+.teacher-item footer a {
   width: 20rem;
   height: 5.6rem;
   background: var(--color-secundary);
@@ -62,7 +62,7 @@
   transition: background-color 0.2s cubic-bezier(0.55, 0.085, 0.68, 0.53);
   outline: 0;
 }
-.teacher-item footer button:hover {
+.teacher-item footer a:hover {
   background: var(--color-secundary-dark);
 }
 
